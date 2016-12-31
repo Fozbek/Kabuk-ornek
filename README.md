@@ -1,2 +1,2 @@
-# Kabuk-ornek
-Linux komut satırı için örnekler. her yeni birşey öğrendiğimde buraya yazacağım.
+# Manuel çeviri
+Linux Basch Manuelleri için çevirilerin olduğu yer :)
