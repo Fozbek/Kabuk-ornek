@@ -1,5 +1,3 @@
-#$ pwd
-* Bulunduğunuz dizinin ismini ekrana yazdırır.
 
 #$ ls
 * Kullandığınız seçeneklere göre dosyaları listeler.
